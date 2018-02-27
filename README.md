@@ -15,5 +15,5 @@ Tomcat8.0 + JDK8 + MySQL + IDEA + Bootstrap + jQuery
 ### 2.2 图书模块
 ![](https://github.com/tw1996/book/blob/master/WebContent/resource/images/book_info.png?raw=true)
 
-## 3.注意
+## 3.说明
 这个项目还有很多不完善的地方，代码风格也不太规范，并且图书模块我还没来得及进行修改，主要拿来学习一下 jsp + servlet  开发 web 项目 的大概流程。
